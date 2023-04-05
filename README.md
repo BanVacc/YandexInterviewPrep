@@ -109,7 +109,7 @@ aabbccd</pre></td>
   </tbody>
 </table>
 
-## [C. Удаление дубликатов](C.py)
+## [C. Удаление дубликатов](C.cpp)
 
 <table>
   <tr>
@@ -183,12 +183,10 @@ aabbccd</pre></td>
 4
 8
 8
-8
-  </pre></td>
+8</pre></td>
         <td><pre>2
 4
-8
-  </pre></td>
+8</pre></td>
      </tr>
   </tbody>
 </table>
@@ -209,11 +207,9 @@ aabbccd</pre></td>
 2
 2
 8
-8
-  </pre></td>
+8</pre></td>
         <td><pre>2
-8
-  </pre></td>
+8</pre></td>
      </tr>
   </tbody>
 </table>
